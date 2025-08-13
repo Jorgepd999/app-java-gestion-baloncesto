@@ -1,3 +1,5 @@
+📚 Proyecto final para la asignatura **Programación** del ciclo **1º DAW** (Desarrollo de Aplicaciones Web).
+
 # **Documentación del Proyecto**
 
 Este proyecto es un simulador de un equipo de baloncesto, donde interactúan diversas entidades como **Jugadores**, **Equipos**, **Arbitros** y **Partidos**. A continuación se presenta una descripción general de las clases y sus funcionalidades.
