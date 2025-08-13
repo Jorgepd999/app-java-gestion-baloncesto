@@ -43,7 +43,7 @@ Para más detalles sobre atributos y métodos, ver la sección [📦 Detalle té
 
 ## 👨‍💻 Autor
 **Jorge Pérez**  
-![LinkedIn](https://www.linkedin.com/in/jorge-perez-3b66b5337/)
+![LinkedIn](https://www.linkedin.com/in/jorge-perez-3b66b5337)
 
 
 
