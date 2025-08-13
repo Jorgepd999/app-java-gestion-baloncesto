@@ -43,6 +43,8 @@ Para más detalles sobre atributos y métodos, ver la sección [📦 Detalle té
 
 ## 👨‍💻 Autor
 **Jorge Pérez**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Pérez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jorge-perez-3b66b5337/)
+<a href="https://www.linkedin.com/in/jorge-perez-3b66b5337/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Pérez-blue?style=flat&logo=linkedin">
+</a>
 
 
