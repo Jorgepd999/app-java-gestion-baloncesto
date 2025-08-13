@@ -1,4 +1,3 @@
-📚 Proyecto final para la asignatura **Programación** del ciclo **1º DAW** (Desarrollo de Aplicaciones Web).
 
 # **Documentación del Proyecto**
 

@@ -36,16 +36,10 @@ Para más detalles sobre atributos y métodos, ver la sección [📦 Detalle té
 ---
 
 ## 📊 Diagrama UML
-![Diagrama UML](uml_diagrama.png)
+[Ver diagrama UML en PDF](assets/uml_diagrama.pdf)
+
 
 ---
-
-## 🛠️ Ejecución
-1. Clonar el repositorio:
-   bash
-   git clone https://github.com/tuusuario/proyecto-final-baloncesto.git
-   javac -d bin src/**/*.java
-   java -cp bin controlador.Main
 
 
 
