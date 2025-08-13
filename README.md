@@ -36,7 +36,7 @@ Para más detalles sobre atributos y métodos, ver la sección [📦 Detalle té
 ---
 
 ## 📊 Diagrama UML
-[Ver diagrama UML en PDF](docs/diagrama-UML.pdf)
+[Ver diagrama UML en PDF](docs/UML.pdf)
 
 
 ---
