@@ -7,7 +7,7 @@
 ## 🚀 Descripción
 Aplicación en Java que simula la gestión de equipos de baloncesto, incluyendo jugadores, árbitros y partidos.  
 Permite registrar resultados, actualizar estadísticas y almacenar datos en ficheros.  
-Utiliza una arquitectura **MVC** y está orientada a objetos.
+Utiliza una arquitectura **MVC** y está orientada a objetos. 
 
 ---
 
