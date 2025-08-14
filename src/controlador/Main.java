@@ -6,7 +6,7 @@ package controlador;
 
 import java.util.Scanner;
 
-import modelo.equipos.Equipo;
+import modelo.equipos.Equipo; 
 import modelo.metodos.Metodos;
 
 
